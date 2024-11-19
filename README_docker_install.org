@@ -1,0 +1,30 @@
+#+title: Readme - Docker-ce Installer
+#+date:  <2024-11-19 Tue>
+
+** About:
+This script installs Docker-ce on ubuntu 24.04 and later systems.
+
+*** Actions:
+- update
+- install requirements
+- add Docker-ce official GPG key
+- add Docker-ce repo to apt
+- install Docker & plugins
+- confirm install
+
+
+** Requirements:
+Ubuntu family Operating System
+- Internet access
+- root or admin privileges
+- bash
+- wget
+- apt
+
+
+** Use:
+1. Pull the script from Github
+   - =( wget  ??? )=
+2. Run script
+   - =( bash docker-ce_install_ubuntu.sh )=
+   - If needed run ~chmod +x fileNAME~ to give execute permissions

@@ -1,0 +1,10 @@
+ ### - .gitignore - ###
+
+#files
+.DS_Store
+.idea
+*.log
+tmp/
+
+
+todos.org
