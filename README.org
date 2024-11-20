@@ -24,7 +24,7 @@ Ubuntu family Operating System
 
 ** Use:
 1. Pull the script from Github
-   - =( wget  ??? )=
+   - =( wget https://github.com/crCREATE/bash.install_Docker-ce_ubuntu/raw/refs/heads/main/docker-ce_ubuntu_install.sh )=
 2. Run script
    - =( bash docker-ce_install_ubuntu.sh )=
    - If needed run ~chmod +x fileNAME~ to give execute permissions
