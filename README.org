@@ -4,7 +4,8 @@
 ** About:
 This script installs Docker-ce on ubuntu 24.04 and later systems.
 
-*** Requirements:
+
+** Requirements:
 Ubuntu family Operating System
 - Internet access
 - root or admin privileges
