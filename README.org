@@ -27,4 +27,6 @@ Ubuntu family Operating System
    - =( wget https://github.com/crCREATE/bash.install_Docker-ce_ubuntu/raw/refs/heads/main/docker-ce_ubuntu_install.sh )=
 2. Run script
    - =( bash docker-ce_install_ubuntu.sh )=
-   - If needed run ~chmod +x fileNAME~ to give execute permissions
+
+_Note:_ if you copy past the contence to your own file you will need to make that file an executible.
+  - ~( chmod +x fileNAME )~
