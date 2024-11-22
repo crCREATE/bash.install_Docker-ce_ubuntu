@@ -29,5 +29,5 @@ Ubuntu family Operating System
 2. Run script
    - =( bash docker-ce_install_ubuntu.sh )=
 
-_Note:_ if you copy past the contence to your own file you will need to make that file an executible.
+*Note:* if you copy past the contence to your own file you will need to make that file an executible.
   - ~( chmod +x fileNAME )~
